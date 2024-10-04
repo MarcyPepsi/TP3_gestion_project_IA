@@ -1,7 +1,7 @@
 public class Group {
 
 	private String[] students = {
-		"Etudiant 1", "Etudiant 2"
+		"GADEU MONTHE VINETTE MARCY", "COELHO FERNANDES RODRIGO CESAR"
 	};
 
 	public String toString() {
